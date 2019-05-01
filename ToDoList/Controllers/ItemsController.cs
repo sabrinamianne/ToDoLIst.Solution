@@ -2,11 +2,11 @@ using Microsoft.AspNetCore.Mvc;
 using ToDoList.Models;
 using System.Collections.Generic;
 
-
 namespace ToDoList.Controllers
 {
   public class ItemsController : Controller
   {
+
     [HttpGet("/items")]
     public ActionResult Index()
     {
@@ -24,7 +24,8 @@ namespace ToDoList.Controllers
     public ActionResult Create(string description)
     {
       Item myItem = new Item(description);
-     return RedirectToAction("Index");
+      return RedirectToAction("Index");
     }
+
   }
 }
