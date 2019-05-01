@@ -9,6 +9,7 @@ namespace ToDoList.Tests
     [TestClass]
     public class HomeControllerTest
     {
+
       [TestMethod]
       public void Index_ReturnsCorrectView_True()
       {
@@ -20,6 +21,6 @@ namespace ToDoList.Tests
 
         //Assert
         Assert.IsInstanceOfType(indexView, typeof(ViewResult));
-        }
       }
-}
+    }
+  }

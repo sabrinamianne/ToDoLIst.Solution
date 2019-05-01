@@ -21,5 +21,12 @@
 /Users/Guest/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.dll
 /Users/Guest/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.pdb
 /Users/Guest/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/ToDoList.csproj.CopyComplete
-/Users/Guest/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/CreateForm.g.cshtml.cs
-/Users/Guest/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/Index.g.cshtml.cs
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/DeleteAll.g.cshtml.cs
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/New.g.cshtml.cs
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Items/Show.g.cshtml.cs
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Categories/Index.g.cshtml.cs
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Categories/New.g.cshtml.cs
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Categories/Show.g.cshtml.cs
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Home/FavoritePhotos.g.cshtml.cs
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Shared/Footer.g.cshtml.cs
+/Users/Guest/Desktop/ToDoList.Solution/ToDoList/obj/Debug/netcoreapp2.2/Razor/Views/Shared/_Layout.g.cshtml.cs
